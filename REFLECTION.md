@@ -9,5 +9,7 @@ Population: '200000'
 Checkpoint 2: What status code do you see when the ID doesn't exist?
 Request failed: 404
 
+Checkpoint 3: Does the loading message appear before the data loads? It should flash briefly on a fast connection.
+the message "loading 'category'...", depending which category you choose it'll say that one is loading.
 
 
